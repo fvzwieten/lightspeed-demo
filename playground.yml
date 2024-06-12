@@ -1,7 +1,7 @@
 ---
-- name: use this file as your lightspeed playground
+- name: Use this file as your lightspeed playground
   hosts: localhost
   connection: local
-
+  vars_files: files/azure.yml
   tasks:
   
