@@ -1,1 +1,7 @@
+---
+- name: use this file as your lightspeed playground
+  hosts: localhost
+  connection: local
 
+  tasks:
+  
